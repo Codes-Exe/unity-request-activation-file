@@ -1,4 +1,5 @@
-name: 'Unity - Request Activation File'
+name: 'Unity - Request Activation File' '
+Unity kişisel lisansı almak için manuel etkinleştirme dosyasını isteyin'
 author: Webber Takken <webber@takken.io>
 description: 'Request the manual activation file for acquiring a Unity personal license.'
 inputs:
